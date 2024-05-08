@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @yosiarel
 - 👀 I’m interested in web and app development
 - 🌱 I’m currently learning java,css,js, and html
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ?
 
 <!---
